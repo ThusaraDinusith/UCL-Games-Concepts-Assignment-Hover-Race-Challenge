@@ -10,6 +10,6 @@ A 2D racing and challenge game prototype developed in C++ for university coursew
 * Track and level management using configuration files
 
 ## Project Structure
-* `.cpp` / `.h` — Core source code and game logic
+* `.cpp` — Core source code and game logic
 * `scene.txt` — Scene and environment setup configurations
 * `waypoints.txt` — Track waypoint layouts and navigation routes
