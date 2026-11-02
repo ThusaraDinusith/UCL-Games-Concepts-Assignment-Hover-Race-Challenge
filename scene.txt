@@ -1,0 +1,105 @@
+# CHECKPOINTS (DO NOT CHANGE)
+Checkpoint 0 0 0
+Checkpoint 10 120 90
+Checkpoint 25 56 0
+Checkpoint 25 0 0
+Checkpoint 0 -35 90
+
+# ISLES
+Isle  -10  40   0 
+Isle  10  40   0 
+Isle  -10  56   0 
+Isle  10  56   0 
+Isle  -10  72   0 
+Isle  10  72   0 
+Isle -33 -23 90
+
+#Garage
+Garage 70 100 270
+
+# TANKS (SAFE POSITIONS)
+Tank1 -12 0 270
+Tank1 14 -24 0
+Tank1 40 65 0
+
+Tank2 28 95 90
+Tank2 -55 -20 180
+
+# LEFT WALL LINE (WIDER ROAD)
+Wall -14 10 0
+Wall -14 26 0
+Wall -14 42 0
+Wall -14 58 0
+Wall -14 74 0
+Wall -14 90 0
+Wall -14 106 0
+Wall -14 122 0
+Wall -14 128 0
+
+# RIGHT WALL LINE (WIDER ROAD)
+Wall 12 -16 0
+Wall 12 0 0
+Wall 12 16 0
+Wall 12 32 0
+Wall 12 48 0
+Wall 12 64 0
+Wall 12 80 0
+Wall 12 96 0
+
+#Top Wall Line
+Wall -5 135 90
+Wall 9 135 90
+Wall 25 135 90
+Wall 41 135 90
+
+#Hidden walls
+HiddenWall 45 72 0
+HiddenWall 45 88 0
+HiddenWall 45 104 0
+HiddenWall 45 120 0
+HiddenWall 45 136 0
+
+
+# RIGHT SIDE TURN WALLS
+
+Wall 38 56 0
+
+Wall 38 40 0
+Wall 38 24 0
+Wall 38 8 0
+Wall 38 -8 0
+Wall 38 -24 0
+Wall 38 -40 0
+
+#Start wall 
+Wall 9 -23 90
+Wall -7 -23 90
+Wall -23 -23 90
+
+# BOTTOM TURN WALLS
+Wall 30 -47 90
+Wall 14 -47 90
+Wall -2 -47 90
+Wall -18 -47 90
+Wall -34 -47 90
+Wall -50 -47 90
+Wall -66 -47 90
+
+#left bottom
+Wall -73 -40 0
+Wall -73 -24 0
+Wall -73 -8 0
+
+
+#top left
+Wall -66 0 90
+Wall -50 0 90
+Wall -34 0 90
+Wall -20 0 90
+
+
+#Tribune
+
+Tribune -500 48 90
+Tribune -400 -300 50
+Tribune -400 396 120
